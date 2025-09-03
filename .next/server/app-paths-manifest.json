@@ -1,0 +1,5 @@
+{
+  "/(site)/page": "app/(site)/page.js",
+  "/api/download-template/route": "app/api/download-template/route.js",
+  "/api/contact/route": "app/api/contact/route.js"
+}
